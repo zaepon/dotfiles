@@ -8,13 +8,7 @@ Contains configs for various things that I use or used in the past
 
 install: https://github.com/nikitabobko/AeroSpace
 
-# Window manager - Yabai (no longer used)
 
-install: https://github.com/koekeishiya/yabai
-
-# Hotkeys - skhd (no longer used)
-
-install: https://github.com/koekeishiya/skhd
 
 ## Other
 
@@ -22,21 +16,6 @@ install: https://github.com/koekeishiya/skhd
 
 https://github.com/dwarvesf/hidden
 
-### TMUX
-
-install: https://github.com/tmux/tmux/wiki/Installing
-
-#### TPM
-
-https://github.com/tmux-plugins/tpm
-
-#### TMUX - theme
-
-https://github.com/catppuccin/tmux
-
-### iTerm2 - theme
-
-https://github.com/catppuccin/iterm/tree/main
 
 ### Borders
 

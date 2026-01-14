@@ -2,7 +2,7 @@
 
 Contains configs for various things that I use or used in the past
 
-After Macos sequoia and forward
+
 
 # Window manager - Aerospace
 
